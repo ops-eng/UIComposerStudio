@@ -1,6 +1,6 @@
 # **UIComposerStudio**  
 
-### The Visual SwiftUI Builder That Turns Ideas Into Real iOS Screens — Right From Your Mac 💡📱  
+### The Visual UI Builder That Turns Ideas Into Real iOS Screens — Right From Your Mac 💡📱  
 UIComposerStudio is your all‑in‑one macOS app for **designing SwiftUI interfaces visually**, previewing them instantly in real iPhone frames, and exporting **production‑ready Swift files** you can drop straight into Xcode or Swift Playgrounds.  
 
 ---
